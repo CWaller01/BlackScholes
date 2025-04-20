@@ -1,8 +1,8 @@
 streamlit
 numpy
 pandas
-scipy
 matplotlib
 seaborn
+scipy
 openpyxl
 xlsxwriter
